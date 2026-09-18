@@ -1,0 +1,18 @@
+h1{
+	color:purple;
+	font-family:roman;
+	font-size:70px;
+	background-color:white;
+	
+}
+p{
+	background-color:pink;
+	text-align:center;
+	font-family:jokerman;
+	text-shadow:3px 3px 6px;
+	text-decoration:italic small-caps
+	border-color green;
+	text-transform:uppercase;
+	text-indent:50px
+	
+}
