@@ -1,0 +1,17 @@
+h1{
+	color:pink;
+	font-family:jokerman;
+	font-size:50px;
+	background-color:purple;
+
+	
+  }
+table{
+	border-style:dashed solid dotted double;
+	border-color:red green blue orange;
+	border-top-width:medium;
+	border-width:5px;
+	border-bottom-width:thin;
+	border-top: 2px solid gray
+    border-radius:5px;
+}
