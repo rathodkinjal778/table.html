@@ -1,18 +1,17 @@
 h1{
-	color:purple;
-	font-family:roman;
-	font-size:70px;
-	background-color:white;
-	
-}
-p{
-	background-color:pink;
-	text-align:center;
+	color:pink;
 	font-family:jokerman;
-	text-shadow:3px 3px 6px;
-	text-decoration:italic small-caps
-	border-color green;
-	text-transform:uppercase;
-	text-indent:50px
+	font-size:50px;
+	background-color:purple;
+
 	
+  }
+table{
+	border-style:dashed solid dotted double;
+	border-color:red green blue orange;
+	border-top-width:medium;
+	border-width:5px;
+	border-bottom-width:thin;
+	border-top: 2px solid gray
+    border-radius:5px;
 }
