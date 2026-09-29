@@ -1,0 +1,17 @@
+h1{
+	color:pink;
+    font-family:italic;
+    font-size:50px;
+    background-color:white;	
+  }
+table{
+	border-style:dashed solid dotted double;
+	border-color:pink blue purple;
+	border-bottom-width:dotted double line;
+	border-top:50px;
+	border-top-width:lenth 50px;
+	border-bottom:2x solid green border-radius 5p;
+	background-color:pink;
+	background-repeat:horizontally only;
+    
+}
