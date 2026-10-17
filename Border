@@ -14,7 +14,7 @@
 <border class="btn btn-warning">warning</button>
 <border class="btn btn-danger">danger</button>
 <border class="btn btn-secondary">secondary</button>
-<button class="btn btn-info">info</button>  
+<border class="btn btn-info">info</button>  
 </body>
 </html>
 
